@@ -1,3 +1,9 @@
+parsimonious (0.8.3-1) bionic; urgency=medium
+
+  * updates from upstream
+
+ -- Peter Howe <pnhowe@gmail.com>  Tue, 24 Aug 2021 10:58:11 -0600
+
 parsimonious (0.8.2-1) bionic; urgency=medium
 
   * See https://github.com/erikrose/parsimonious
